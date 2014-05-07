@@ -1,0 +1,16 @@
+a{
+color: red; 
+text-decoration: none; 
+}
+a:hover{
+	text-decoration: underline; 
+}
+ul .navi-first > li {
+	text-decoration:underline; 
+}
+#block{
+	background: rgba(0;255,0,0.5);
+	width: 300px;
+	font-size: 1em; 
+	1em;
+}

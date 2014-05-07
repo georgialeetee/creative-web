@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="language" content="en" />
+	<meta name="robots" content="index,follow" />
+	<meta name="author" content="Georgia Timmerberg" />
+	<meta name="description" content="This is it y'all" />
+<title> Georgia Timmerberg fun zone </title>
+</head>
+
+<body>
+Hallo.
+</body>
+</html>
