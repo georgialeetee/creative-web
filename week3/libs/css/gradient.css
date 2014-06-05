@@ -1,12 +1,17 @@
 h1{
 height:200px;
 background: -webkit-linear-gradient(left, red , blue);
-box-shadow: 20px 20px 10px #888888;
+box-shadow: 10px 10px 5px #888888;
 border:2px solid #a1a1a1;
 padding:10px 40px; 
 background:#dddddd;
 width:300px;
-border-radius:25px;
+border-radius:10px;
+
+a:link    {color:green;}
+a:visited {color:green;}
+a:hover   {color:red;}
+a:active  {color:yellow;
 }
 
 

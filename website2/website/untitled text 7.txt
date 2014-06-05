@@ -1,0 +1,7 @@
+var myname = "initial"
+function c(){
+    alert(myname);
+    myname = "changed";
+    alert(myname);
+}
+c();
